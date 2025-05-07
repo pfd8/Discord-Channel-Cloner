@@ -1,0 +1,16 @@
+{
+    "name": "discord-channel-cloner",
+    "version": "1.0.0",
+    "description": "A Discord bot that clones messages from one channel to another",
+    "main": "discord-channel-cloner.js",
+    "scripts": {
+      "start": "node discord-channel-cloner.js"
+    },
+    "dependencies": {
+      "discord.js": "^14.14.1",
+      "dotenv": "^16.3.1"
+    },
+    "engines": {
+      "node": ">=16.9.0"
+    }
+  }
